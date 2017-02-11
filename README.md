@@ -4,18 +4,17 @@ Instantly share apk files to slack channels using instapk plugin.
 
 You can  install `instapk` directly from Android Studio using,  
 
-`Preferences/Settings -> Plugins -> Browse Repositories`.
-[image]
+`Preferences/Settings -> Plugins -> Browse Repositories`.  
+
+![](images/install.gif)
 
 or alternatively, you can download the plugin from jetbrains site and install it manually using,  
 
 `Preferences/Settings->Plugins->Install plugin from disk` option.  
-[image]  
-
 
 # Usage
 
-[image]
+![](images/authorize.gif)
 
 After installation, we can access the setup panel as above. 
 
@@ -24,11 +23,11 @@ After installation, we can access the setup panel as above.
 3. Authorize instapk and copy the `access token`.
 4. Submit/Save accesstoken via plugin panel
 
-[image]
+![](images/token.gif)
 
 5. Now you can use `upload` button on toolbar or panel to select and share apk.  
 
-[image]  
+![](images/upload.gif)
 
 # Submit issues
 
