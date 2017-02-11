@@ -12,18 +12,18 @@ or alternatively, you can download the plugin from jetbrains site and install it
 
 `Preferences/Settings->Plugins->Install plugin from disk` option.  
 
-# Usage
+# Usage  
 
-![](images/authorize.gif)
-
-After installation, we can access the setup panel as above. 
+After installation, we can access the setup panel as below.
+ 
+![](images/authorize.gif)  
 
 1. Click on the Connect to Slack.
 2. Login with your slack credentials, or select slack team. 
 3. Authorize instapk and copy the `access token`.
-4. Submit/Save accesstoken via plugin panel
+4. Submit/Save accesstoken via plugin panel  
 
-![](images/token.gif)
+![](images/token.gif)  
 
 5. Now you can use `upload` button on toolbar or panel to select and share apk.  
 
