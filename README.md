@@ -27,8 +27,6 @@ After installation, we can access the setup panel as below.
 
 5. Now you can use `upload` button on toolbar or panel to select and share apk.  
 
-![](images/upload.gif)
-
 # Submit issues
 
 We are using `github` to track any plugin related issues, so if you face any problems, submit on github issues.  
