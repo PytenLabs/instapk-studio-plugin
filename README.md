@@ -31,4 +31,4 @@ After installation, we can access the setup panel as below.
 # Submit issues
 
 We are using `github` to track any plugin related issues, so if you face any problems, submit on github issues.  
-
+For other questions contact us at `contact@instapk.com`. 
