@@ -1,4 +1,2 @@
-Important Update!
-
-* Fix: Projects with multiple modules were handled incorrectly. 
-* Fix: Adjust UI for light color theme.
+* New: Option to logout/disconnect from slack.<br>
+    Use this option if you want to change slack team associated with a project.
